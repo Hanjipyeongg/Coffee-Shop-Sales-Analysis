@@ -20,7 +20,7 @@ Overall, the business generated $12K in total revenue from 381 customer orders, 
 In addition, product-level analysis reveals differences in sales contribution across menu items, while customer traffic analysis highlights opportunities to optimize staffing allocation and promotional strategies based on peak and off-peak operating hours.
 
 <p align="center">
-    <img src="Dahboard/dashboard-preview.png" width="1000">
+  <img src="Dashboard/Dashboard_preview.png" width="1000">
 </p>
 
 Revenue Performance
