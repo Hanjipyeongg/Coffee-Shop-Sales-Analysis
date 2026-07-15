@@ -15,12 +15,16 @@ This project aims to answer three strategic business questions:
 ### Overview of Findings
 This analysis evaluates coffee shop sales performance over a 12-month period to identify revenue trends, product contribution, and operational patterns that support data-driven business decisions.
 
+<p align="center">
+  <img src="Dashboard/Dashboard_preview.png" width="800">
+</p>
+
 Overall, the business generated $12K in total revenue from 381 customer orders, with an average spending of $31.75 per transaction. While the number of monthly orders remained relatively stable throughout the analysis period, revenue showed a gradual decline toward the end of the year, suggesting that lower customer spending, rather than reduced transaction volume, became the primary factor affecting business performance.
 
 In addition, product-level analysis reveals differences in sales contribution across menu items, while customer traffic analysis highlights opportunities to optimize staffing allocation and promotional strategies based on peak and off-peak operating hours.
 
 <p align="center">
-  <img src="Dashboard/Dashboard_preview.png" width="1000">
+  <img src="Dashboard/Dashboard_preview_2.png" width="800">
 </p>
 
 Revenue Performance
